@@ -1,0 +1,6 @@
+numpy
+pandas
+langchain-experimental
+langchain-groq
+python-dotenv
+tabulate
