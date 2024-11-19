@@ -8,7 +8,9 @@
 Chat with CSV is a user-friendly project that allows users to upload one or more CSV files simultaneously and ask questions about the data. Using advanced data processing and natural language understanding, the tool provides precise answers based on the content of the uploaded CSV files.
 
 ---
+![image](https://github.com/user-attachments/assets/9e5d7c7e-5633-499e-8784-e528b2e101a1)
 
+---
 ## Features
 
 - **Multi-File Upload:** Upload one or multiple CSV files at a time.
